@@ -1,16 +1,46 @@
 body {
     font-family: Arial,  sans-serif; /* keluarga font */
     font-size: 11px; /* Ukuran font utama pada tag <p></p> */
-    background-color: #0a0a0a; /* Warna latar belakang laman web */
+    background-color: #D6FF6B; /* Warna latar belakang laman web */
     color: #333333; /* Warna teks */ 
+    padding: 10px;
+    margin: 10px;
 }
 h1 {
-    color: #00a800; /* Warna tajuk (header)*/
-    font-size: 24px; /* Ukuran font tajuk (header) */
+    margin: 10px;
+    padding-left: 100px;
+    color: #FFFFFF; /* Warna tajuk (header)*/
+    font-size: 200px; /* Ukuran font tajuk (header) */
     font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+    border-width: 50px;
+    border-top: 50px;
+    border-bottom: 50px;
+    background-color:#5988FF ;
+    border-style:solid; 
+    border-top-color: #5988FF;
+    border-left-color: #5988FF;
+    border-right-color:#5988FF; 
+    border-bottom-color:#5988FF; 
+    border-block-end-color:#5988FF ;
+    border-radius: 30%;
+    
 }
 h2{
-    color: #06fae6;
-    font-size: 100px; /* Ukuran font tajuk (header) */
+    margin: 10px;
+    color: #FFFFFF; /* Warna tajuk (header)*/
+    font-size: 50px; /* Ukuran font tajuk (header) */
     font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+    border-width: 50px;
+    border-top: 50px;
+    border-bottom: 50px;
+    margin: 190px;
+    padding: 20px;
+    background-color:#5988FF ;
+    border-style:solid; 
+    border-top-color: #5988FF;
+    border-left-color: #5988FF;
+    border-right-color:#5988FF; 
+    border-bottom-color:#5988FF; 
+    border-block-end-color:#5988FF ;
+    border-radius: 30%;
 }
